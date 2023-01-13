@@ -1,0 +1,26 @@
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\bin\Debug\mentemaestra.exe.config
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\bin\Debug\mentemaestra.exe
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\bin\Debug\mentemaestra.pdb
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\bin\Debug\mentemaestra.xml
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbprojAssemblyReference.cache
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.frmjuego.resources
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.Resources.resources
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbproj.GenerateResource.cache
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbproj.CoreCompileInputs.cache
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.exe
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.xml
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.pdb
+C:\Users\andrey sanchez\source\repos\mentemaestra\mentemaestra\obj\Debug\mentemaestra.frmautores.resources
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\bin\Debug\mentemaestra.exe.config
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\bin\Debug\mentemaestra.exe
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\bin\Debug\mentemaestra.pdb
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\bin\Debug\mentemaestra.xml
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbproj.AssemblyReference.cache
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.frmjuego.resources
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.frmautores.resources
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.Resources.resources
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbproj.GenerateResource.cache
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.vbproj.CoreCompileInputs.cache
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.exe
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.xml
+F:\KINGSTON\Datos de la compu\Visual Studio 2019\Done Projects\archivos cutri pasado\repos\mentemaestra\mentemaestra\mentemaestra\obj\Debug\mentemaestra.pdb
